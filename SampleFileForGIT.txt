@@ -1,0 +1,16 @@
+1. interface
+2. simple list in C++
+3. OOPs concepts
+4. Encapsulation in your project
+5. WebDriver driver=new ChromeDriver(); --> here what is ChromeDriver
+6. implicit wait =10 .. wait to a particular contol is 5, when will you get the exception
+7. Write POJO class for the below 
+8. Framework used in your project
+9. Collections used in your project
+10. Parellel execution in TestNG - you will get one exception for the first time.. what is that
+11. How you select an item in dropdown
+12. what is the special class for dropdown
+13. try..catch.. finally ... inside catch there is a return.then finally will work?
+14. head in body json .. what is that?
+15. what are all the methods in requst
+16. what is request specicication
