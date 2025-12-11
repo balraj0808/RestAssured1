@@ -14,3 +14,4 @@
 14. head in body json .. what is that?
 15. what are all the methods in requst
 16. what is request specicication
+17. StaleElementException (Added 1)
